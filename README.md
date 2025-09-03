@@ -2,6 +2,7 @@
 
 **CoinPay** is a modern, dark-themed mobile finance app built with **React Native** and **Expo Router**. The app offers features like personal info setup, identity verification, card management, money transfer, QR payments, transaction tracking, support chat, and more — all wrapped in a sleek UI inspired by mobile banking.
 
+Chech the figma design: https://www.figma.com/design/FHpsCUXuQuURQf58XprBtY/Coinpay-Fintech-Finance-Mobile-App-UI-kit--Community---Community-?node-id=1-20069&t=URzGZvdVCgPfYJtk-0
 ---
 
 ## 🚀 Features
